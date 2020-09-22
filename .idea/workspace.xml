@@ -75,6 +75,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1084" y="262" key="FileChooserDialogImpl" timestamp="1600536783923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1084" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600536783923" />
     <state width="1207" height="281" key="GridCell.Tab.0.bottom" timestamp="1600379327817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -91,9 +95,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1207" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600379327817" />
-    <state x="79" y="57" width="718" height="710" key="dock-window-1" timestamp="1600378457278">
+    <state x="79" y="57" width="718" height="710" key="dock-window-1" timestamp="1600536789965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="79" y="57" width="718" height="710" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1600378457278" />
+    <state x="79" y="57" width="718" height="710" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1600536789965" />
   </component>
 </project>
